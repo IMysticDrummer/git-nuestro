@@ -1,4 +1,5 @@
-#Git nuestro
+#Git nuestro - nuestro git
+##Poema para los frikis - hackers y resto de personas con intereses computacionales
 
 *Git* nuestro que estas en los repos
 
