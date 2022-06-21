@@ -1,4 +1,4 @@
-Git nuestro
+#Git nuestro
 
 *Git* nuestro que estas en los repos
 
@@ -12,11 +12,8 @@ Danos hoy nuestro *pull* de cada día
 
 Perdona nuestros *conflictos*
 
-Como tambíen perdonamos los de otros geeks
-
 No nos dejes caer en *detached HEAD*
 
 y líbranos de *SVN*
 
 `git commit --amend`
-
