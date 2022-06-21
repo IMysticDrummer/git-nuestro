@@ -4,6 +4,7 @@ Práctica de GIT usando modificaciones sobre el "git-nuestro"
 **Nota:** la rama principal del repositorio es *main*. Por tanto, toda referencia del ejercicio a la rama *master*, en repositorio es *main*.
 
 ##Ejercicio 1
+
 **Paso 11**
 > Utilizado el comando `git reset --hard HEAD~1`. Esto nos lleva al commit anterior, sustituyendo todo el contenido del working copy
 
@@ -31,7 +32,6 @@ Práctica de GIT usando modificaciones sobre el "git-nuestro"
 > En mi caso concreto he configurado un alias llamado graph, para llamar al comando anterior de “un solo golpe de teclado”.
 >> `git config --global alias.graph log --graph --decorate”`
 > Podría haber utilizado también la info en una línea con `--pretty=oneline`, pero la verdad es que no me molesta tener más información.
-> Para control dejo dos archivos a mayores en **main** que recogen el resultado de las dos opciones anteriores.
 
 **Paso 26**
 > Sí, podría hacerse un merge fast-forward.
@@ -47,7 +47,7 @@ Práctica de GIT usando modificaciones sobre el "git-nuestro"
 > Para eliminar la rama **title**, primero me aseguro que no estoy en ella
 >> `git branch`
 > Me dice que estoy en **main**. Desde ahí elimino la rama **title**
->> `git branch -D title
+>> `git branch -D title`
 
 **Paso 30**
 > Primero utilizo `git reflog` para localizar el hash del commit en el que hicimos el merge entre **main** y **title**. En mi caso el hash es 4fa6292
