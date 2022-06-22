@@ -64,3 +64,8 @@ Práctica de GIT usando modificaciones sobre el "git-nuestro"
 **Paso 33**
 > Utilizo `git reflog` para localizar el commit final. En mi caso 4fa6292.
 > Utilizo `git reset 4fa6292` para volver a colocarnos en el commit final.
+
+
+## Ejercicio 2
+Realizado fork, edición del archivo con mi cita, y commit.
+Pedido pull-request con mi nombre (Iván García...) y la cita introducida.
